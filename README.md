@@ -72,6 +72,4 @@ What do you want to solve for: x
 ## Author
 Uttkarsh Singh
 
-## License
-This project is licensed under the MIT License.
 
